@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c6059d1-449c-4e89-ade5-3ce9f832401b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dang/order_car.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dangapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dangapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dangapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dangapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dangdang/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dangdang/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dang/Bookdetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dang/Bookdetails.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dang/car.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dang/car.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dang/indent ok.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dang/indent ok.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dang/indent.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dang/indent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dang/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dang/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dang/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://D:/Python学习阶段课程/中期项目/资料/项目原型/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="342">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
@@ -37,12 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dangapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="430" lean-forward="true" selection-start-line="430" selection-end-line="430" />
-              <folding>
-                <element signature="e#1#15#0" expanded="true" />
-                <element signature="e#529#1673#0" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="412" column="26" selection-start-line="412" selection-start-column="26" selection-end-line="412" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -50,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/dang/car.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="268" lean-forward="true" selection-start-line="268" selection-end-line="268" />
+            <state relative-caret-position="5092">
+              <caret line="268" selection-start-line="268" selection-end-line="268" />
             </state>
           </provider>
         </entry>
@@ -59,14 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/dang/indent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2114">
-              <caret line="77" column="31" lean-forward="true" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
-              <folding>
-                <element signature="n#li#1;n#ul#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#9680#9703#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#select#1;n#li#1;n#ul#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="1463">
+              <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -74,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/dang/indent ok.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="741">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -83,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dangapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="1254">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -92,12 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/dang/Bookdetails.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="563" column="29" lean-forward="true" selection-start-line="563" selection-start-column="29" selection-end-line="563" selection-end-column="29" />
-              <folding>
-                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="10697">
+              <caret line="563" column="29" selection-start-line="563" selection-start-column="29" selection-end-line="563" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -114,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/dang/shop_car.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1425">
+            <state relative-caret-position="228">
               <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
             </state>
           </provider>
@@ -123,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://D:/active/TesrDemo/Lib/site-packages/django/contrib/auth/hashers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="304">
               <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -184,7 +161,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="f408bdf7-3771-441c-ac7c-703e54bf759d" />
@@ -212,9 +189,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="290" />
-    <option name="width" value="1664" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="401" />
+    <option name="y" value="45" />
+    <option name="width" value="1534" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -233,23 +211,7 @@
             <path>
               <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
               <item name="dangdang" type="462c0819:PsiDirectoryNode" />
-              <item name="dangapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
-              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="dang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +223,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/dang" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dangdang" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -369,11 +331,13 @@
       <workItem from="1558833875448" duration="10646000" />
       <workItem from="1558852948018" duration="131000" />
       <workItem from="1558857264046" duration="9756000" />
+      <workItem from="1558925827398" duration="336000" />
+      <workItem from="1558926193330" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119631000" />
+    <option name="totallyTimeSpent" value="119994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,9 +350,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22520107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19772118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -453,13 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dangapp/migrations/0001_initial.py" />
     <entry file="file://$PROJECT_DIR$/../中期项目/dangapp/models.py" />
-    <entry file="file://$PROJECT_DIR$/../shopping_cat/dangapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
-          <caret line="109" column="41" selection-start-line="109" selection-start-column="41" selection-end-line="109" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../shopping_cat/dangapp/views.py" />
     <entry file="file://$PROJECT_DIR$/captchaapp/captcha/image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1213">
@@ -474,33 +431,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python第二阶段/home/emp_app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python第二阶段/home/emp_app/views.py" />
     <entry file="file://$PROJECT_DIR$/static/css/home.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python第二阶段/home/templates/ems/regist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="105" column="91" selection-start-line="105" selection-start-column="75" selection-end-line="105" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../shopping_cat/templates/dang/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="132" column="8" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="140" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python第二阶段/home/templates/ems/regist.html" />
+    <entry file="file://$PROJECT_DIR$/../shopping_cat/templates/dang/register.html" />
     <entry file="file://$PROJECT_DIR$/dangapp/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -557,13 +493,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../car.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5491">
-          <caret line="289" column="22" selection-start-line="289" selection-start-column="22" selection-end-line="289" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../car.html" />
     <entry file="file://$PROJECT_DIR$/dangapp/cart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -647,20 +577,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/active/TesrDemo/Lib/site-packages/django/contrib/auth/hashers.py">
+    <entry file="file://D:/Python学习阶段课程/中期项目/资料/项目原型/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dang/shop_car.html">
+    <entry file="file://$PROJECT_DIR$/templates/dang/car.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1425">
-          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+        <state relative-caret-position="5092">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dang/indent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dang/indent ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dangapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dang/Bookdetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10697">
+          <caret line="563" column="29" selection-start-line="563" selection-start-column="29" selection-end-line="563" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -671,66 +626,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python学习阶段课程/中期项目/资料/项目原型/index.html">
+    <entry file="file://$PROJECT_DIR$/templates/dang/shop_car.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dangapp/urls.py">
+    <entry file="file://D:/active/TesrDemo/Lib/site-packages/django/contrib/auth/hashers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dang/Bookdetails.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="563" column="29" lean-forward="true" selection-start-line="563" selection-start-column="29" selection-end-line="563" selection-end-column="29" />
+        <state relative-caret-position="304">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
           <folding>
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dang/car.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="268" lean-forward="true" selection-start-line="268" selection-end-line="268" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dang/indent ok.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dang/indent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2114">
-          <caret line="77" column="31" lean-forward="true" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
-          <folding>
-            <element signature="n#li#1;n#ul#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#9680#9703#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#select#1;n#li#1;n#ul#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dangapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="430" lean-forward="true" selection-start-line="430" selection-end-line="430" />
-          <folding>
-            <element signature="e#1#15#0" expanded="true" />
-            <element signature="e#529#1673#0" />
-          </folding>
+        <state relative-caret-position="182">
+          <caret line="412" column="26" selection-start-line="412" selection-start-column="26" selection-end-line="412" selection-end-column="26" />
         </state>
       </provider>
     </entry>
